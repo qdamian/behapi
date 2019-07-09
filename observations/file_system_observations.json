@@ -1,0 +1,88 @@
+[
+   {
+      "type": "observed-data",
+      "id": "observed-data--cf8eaa41-6f4c-482e-89b9-9cd2d6a83cb1",
+      "created_by_ref": "identity--987eeee1-413a-44ac-96cc-0a8acdcc2f2c",
+      "created": "2019-07-09T19:37:11.213Z",
+      "modified": "2019-07-09T19:37:11.213Z",
+      "first_observed": "2019-07-09T21:36:11.213Z",
+      "last_observed": "2019-07-09T21:36:11.213Z",
+      "number_observed": 1,
+      "objects": {
+        "0": {
+          "type": "file",
+          "hashes": {
+            "MD5": "1717b7fff97d37a1e1a0029d83492de1",
+            "SHA-1": "c79a326f8411e9488bdc3779753e1e3489aaedea"
+          },
+          "name": "CBricksDoc",
+        }
+      }
+    },
+    {
+      "type": "observed-data",
+      "id": "observed-data--a0d34360-66ad-4977-b255-d9e1080421c4",
+      "created_by_ref": "identity--987eeee1-413a-44ac-96cc-0a8acdcc2f2c",
+      "created": "2019-07-09T19:37:11.213Z",
+      "modified": "2019-07-09T19:37:11.213Z",
+      "first_observed": "2019-07-09T21:39:11.213Z",
+      "last_observed": "2019-07-09T21:39:11.213Z",
+      "number_observed": 2,
+      "objects": {
+		"0": {
+          "type": "file",
+          "hashes": {
+            "MD5": "1818c8fff97d37a1e1a0029d83492de1",
+            "SHA-1": "d80b436f8411e9488bdc3779753e1e3489aaedea"
+          },
+          "name": "CBricksDoc",
+        },
+		"1": {
+          "type": "windows-registry-key",
+          "key": "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\Services\\WSALG2"
+        },
+		"2": {
+			"type": "file",
+			"hashes": {
+				"MD5": "A9331045A29F9257979C309341DF6575",
+				"SHA-1": "C234585DE1CBE2C388800C45C425B8D5610BA711",
+				"SHA-256": "C7F66434D7938E3E78BC27B79B7D1A7950EDA3D560C0F0E1EB6840B1C7B22ACC"
+			}
+		},
+		"3": {
+			"type": "process",
+			"command_line": "C:\\WINDOWS\\SysWoW64\\Macromed\\Flash\\FlashPlayerUpdateService.exe",
+			"created": "2019-05-26T21:35:13Z",
+			"binary_ref": 2
+		},
+		"4": {
+			"type": "process",
+			"command_line": "\"C:\\WINDOWS\\SysWoW64\\Macromed\\Flash\\FlashPlayerUpdateService.exe\" ",
+			"created": "2019-05-26T21:35:13Z",
+			"binary_ref": 2
+		},
+		"5": {
+			"type": "file",
+			"hashes": {
+				"MD5": "1136EFB1A46D1F2D508162387F30DC4D",
+				"SHA-1": "F280858DCFEFABC1A9A006A57F6B266A5D1FDE8E",
+				"SHA-256": "EEE9C44C29C2BE011F1F1E43BB8C3FCA888CB81053022EC5A0060035DE16D848"
+			}
+		},
+		"6": {
+			"type": "process",
+			"command_line": "C:\\CouchDB\\bin\\nssm.exe",
+			"created": "2017-04-26T14:14:53Z",
+			"binary_ref": 5
+		},
+		"7": {
+			"type": "file",
+			"hashes": {
+				"MD5": "0F0BB33129C878432400F003599F466E",
+				"SHA-1": "244EDE4FC3ED988332C712B97B50F51A44F073C8",
+				"SHA-256": "91821B07F2902435DA0A763E00C8C63380C79B1A48A9713B28ACA75EC888A7BF"
+			}
+		}
+      }
+    }
+  ]

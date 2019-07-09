@@ -1,0 +1,103 @@
+[{
+	"type": "observed-data",
+	"id": "observed-data--cf8eaa41-6f4c-482e-89b9-9cd2d6a83cb1",
+	"created_by_ref": "identity--987eeee1-413a-44ac-96cc-0a8acdcc2f2c",
+	"created": "2019-07-09T19:30:11.213Z",
+	"modified": "2019-07-09T19:30:11.213Z",
+	"first_observed": "2019-07-09T19:30:11.213Z",
+	"last_observed": "2019-07-09T19:30:11.213Z",
+	"number_observed": 4,
+	"objects": {
+		"0": {
+			"type": "domain-name",
+			"value": "http://google.com"
+		},
+		"1": {
+			"type": "ipv4-addr",
+			"value": "112.64.0.4"
+		},
+		"2": {
+			"type": "domain-name",
+			"value": "cartopei.com"
+		},
+		"3": {
+			"type": "ipv4-addr",
+			"value": "139.226.0.2"
+		}
+	}
+ }, {
+	"type": "observed-data",
+	"id": "observed-data--cf8eaa41-6f4c-482e-89b9-9cd2d6a83cb1",
+	"created_by_ref": "identity--987eeee1-413a-44ac-96cc-0a8acdcc2f2c",
+	"created": "2019-07-09T19:31:11.213Z",
+	"modified": "2019-07-09T19:31:11.213Z",
+	"first_observed": "2019-07-09T19:31:11.213Z",
+	"last_observed": "2019-07-09T19:31:11.213Z",
+	"number_observed": 1,
+	"objects": {
+		"0": {
+			"type": "file",
+			"hashes": {
+				"MD5": "1717b7fff97d37a1e1a0029d83492de1",
+				"SHA-1": "c79a326f8411e9488bdc3779753e1e3489aaedea"
+			},
+			"name": "CBricksDoc",
+			"size": 83968
+		}
+	}
+ }, {
+	"type": "observed-data",
+	"id": "observed-data--cf8eaa41-6f4c-482e-89b9-9cd2d6a83cb1",
+	"created_by_ref": "identity--987eeee1-413a-44ac-96cc-0a8acdcc2f2c",
+	"created": "2019-07-09T19:32:11.213Z",
+	"modified": "2019-07-09T19:32:11.213Z",
+	"first_observed": "2019-07-09T19:31:11.213Z",
+	"last_observed": "2019-07-09T19:31:11.213Z",
+	"number_observed": 3,
+	"objects": {
+		"0": {
+			"type": "domain-name",
+			"value": "http://google.com"
+		},
+		"1": {
+			"type": "ipv4-addr",
+			"value": "219.76.208.16"
+		},
+		"2": {
+			"type": "ipv4-addr",
+			"value": "101.166.170.180"
+		}
+	}
+ }, {
+	"type": "observed-data",
+	"id": "observed-data--cf8eaa41-6f4c-482e-89b9-9cd2d6a83cb1",
+	"created_by_ref": "identity--987eeee1-413a-44ac-96cc-0a8acdcc2f2c",
+	"created": "2019-07-09T19:33:11.213Z",
+	"modified": "2019-07-09T19:33:11.213Z",
+	"first_observed": "2019-07-09T19:33:11.213Z",
+	"last_observed": "2019-07-09T19:33:11.213Z",
+	"number_observed": 1,
+	"objects": {
+		"0": {
+			"type": "file",
+			"hashes": {
+				"SHA-256": "f1194a53db70563a78e64d39c854c42832a21c229e7118413689743d3f5c30a5"
+			}
+		}
+	}
+}, {
+	"type": "observed-data",
+	"id": "observed-data--a0d34360-66ad-4977-b255-d9e1080421c4",
+	"created_by_ref": "identity--987eeee1-413a-44ac-96cc-0a8acdcc2f2c",
+	"created": "2019-07-09T19:34:11.213Z",
+	"modified": "2019-07-09T19:34:11.213Z",
+	"first_observed": "2019-07-09T19:34:11.213Z",
+	"last_observed": "2019-07-09T19:34:11.213Z",
+	"number_observed": 1,
+	"objects": {
+		"0": {
+			"type": "windows-registry-key",
+			"key": "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\Services\\WSALG2"
+		}
+	}
+}]
